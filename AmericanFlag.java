@@ -1,9 +1,7 @@
 /*
 Tittle: American Flag
 Author: Nunzio Emanuele Sgroi
-Student ID: 21508918
-Module: Programming
-Assesment: Task 1
+
 Description: To print an American Flag using Java Codes.
  The output can be defined as ASCII art which it stand for 
  American Standard Code For Information Interchange
